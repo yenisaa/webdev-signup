@@ -68,6 +68,7 @@ form {
     height: 48px;
     margin: 10px 0;
     padding: 5px;
+    border: 1px solid #ddd;
   }
 
   & input:focus {
@@ -89,6 +90,8 @@ form {
     height: 48px;
     margin: 10px 10px 0px 0px;
     padding: 3% 0;
+    border: 1px solid #ddd;
+
   }
   .select:focus {
     outline: none;
